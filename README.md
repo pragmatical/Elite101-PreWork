@@ -1,4 +1,4 @@
-# Elite101-PreWork
+# Elite101-PreWork With a more verbose heading for the readme
 This repository contains my pre-work project for the Elite 101 Course at Code2College.<br/>
 The pre-work is a python chatbot.<br/>
 This line is added from Repl.it.<br/>
